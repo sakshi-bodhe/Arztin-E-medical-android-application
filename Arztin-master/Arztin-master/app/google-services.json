@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801292470929",
+    "project_id": "arztin01-dcf84",
+    "storage_bucket": "arztin01-dcf84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801292470929:android:c62f39b222f48dd4b94d30",
+        "android_client_info": {
+          "package_name": "com.example.arztin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801292470929-uv27nncrfvraunag1h1tmva18lcqi6t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHwAeKQ2nJwzg0YMA46-A5MWjQqrzmT_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801292470929-uv27nncrfvraunag1h1tmva18lcqi6t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

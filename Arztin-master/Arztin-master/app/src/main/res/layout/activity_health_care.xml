@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/layout"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="661dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/pg1" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="646dp"
+                android:layout_marginTop="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/pg2" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="586dp"
+                android:layout_marginTop="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/pg3" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="628dp"
+                android:layout_marginTop="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/pg4" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="596dp"
+                android:layout_marginTop="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/pg5" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="583dp"
+                android:layout_marginTop="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/pg6" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="593dp"
+                android:layout_marginTop="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/pg7" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="571dp"
+                android:layout_marginTop="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/pg8" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="580dp"
+                android:layout_marginTop="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/pg9" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="473dp"
+                android:layout_marginTop="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/pg10" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
